@@ -28,7 +28,7 @@ XYZ Corp is using Dynamics 365 for managing its sales and customer service proce
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/prateek271/dynamics-365-customization.git
+   git clone https://github.com/praTeek271/Software-Engineer-assesment-for-Intellecess.git
    ```
 
 2. **Import Solution:**
